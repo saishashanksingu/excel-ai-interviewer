@@ -1,0 +1,17 @@
+[
+  {
+    "question_id": 0,
+    "user_answer": "I dont know the answer\n",
+    "evaluation": "Feedback for the previous question:\n1. The candidate's response lacks clarity and specificity - they have not provided an adequate explanation of either VLOOKUP or INDEX-MATCH.\n2. This is a critical skill that will be assessed in future technical interviews, so it's important to review the difference between these two functions thoroughly.\n3. It may also be helpful for the candidate to practice explaining these concepts more clearly and with greater detail, using examples from their experience or other sources if necessary. \nScore: 2/10"
+  },
+  {
+    "question_id": 1,
+    "user_answer": "We can use DUPLICATE() function",
+    "evaluation": "Thank you for sharing your answer with me. I understand that the duplicate value formula is DUPLICATE(). However, there are a few other ways to find duplicates in Excel. \n1) You could use the COUNTIF() function which will count how many times a certain criteria appears in the column and you can see if it's greater than 1. This way you don't have to filter values that occur more than once. \n2) Another approach is by using Conditional Formatting (CF). You can highlight cells with duplicate values, which will make it easy for you to identify them quickly. It's a good idea to use the Highlight Cells Rules in CF to get better results. \n3) Lastly, another way to find duplicates is by creating a new column and using a formula such as =IF(A1=B1,TRUE,FALSE). This will allow you to filter the data based on specific criteria (in this case, checking for identical values in cells A1 and B1).\nOverall, there are multiple approaches that can be taken to find duplicates in Excel. I would suggest using a combination of these techniques to get the most accurate results.\nScore: 7/10"
+  },
+  {
+    "question_id": 2,
+    "user_answer": "We can use the PIVOT()",
+    "evaluation": "1. The candidate's answer is missing key details about how to create a Pivot Table in Excel. The ideal answer explained that you can drag fields into rows, columns, values, and filters to calculate sums, counts, averages, etc. This shows an understanding of the function and its purpose. However, it would be helpful for the candidate to provide step-by-step instructions on how to create a Pivot Table in Excel to ensure accuracy and completeness.\n2. The score for this answer is 8/10. While the candidate's response demonstrates some knowledge of the PIVOT() function, it lacks detail and clear instructions for creating a pivot table. With more specific guidance and an explanation of each step, the candidate could improve their understanding and mastery of this Excel tool."
+  }
+]
